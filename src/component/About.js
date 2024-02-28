@@ -9,7 +9,7 @@ function About(){
             <p className=" font-bold">CRI PUMPS WINS THE NATIONAL LEVEL ENERGY CONSERVTION AWARD 2018 for the 4th time </p>
             <ul className="list-disc">
                 <br/>
-                <li>CRI's energy efficient products are well recognized by various Gvernment Institutions,
+                <li>CRI&#39;s energy efficient products are well recognized by various Gvernment Institutions,
                     as trustworthy products for various projects across the globe to save energy.
                 </li>
                 <br />
@@ -22,7 +22,7 @@ function About(){
             <img src="./2.png" className="aboutimg my-2" />
         
             <p>
-                Government of India has awarded the <span className="font-bold">"National Energy Conservation Award 2018"</span>. Mr G. Selvaraj, Joint Managing Director of CRI Groups received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.
+                Government of India has awarded the <span className="font-bold">&#34;National Energy Conservation Award 2018&#34;</span>. Mr G. Selvaraj, Joint Managing Director of CRI Groups received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.
 
             </p>
             </div>
