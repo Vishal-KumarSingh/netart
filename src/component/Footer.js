@@ -6,11 +6,11 @@ function Footer() {
   return (
     <footer>
        
-      <p><span className="circle bg-white"><IoCall size={25}/></span><span> Toll free 1800 200 1234</span></p>
+      <p><span className="flex justify-center m-1"><IoCall size={25}/></span><span> Toll free 1800 200 1234</span></p>
 
-      <p><FaFacebook size={25}/> <span>www.facebook.com/cripumps</span></p>
+      <p><span className="flex justify-center m-1"><FaFacebook size={25}/></span> <span>www.facebook.com/cripumps</span></p>
 
-      <p><IoGlobeOutline size={25}/> <span>www.crigroups.com</span></p>
+      <p><span className="flex justify-center m-1"><IoGlobeOutline size={25}/></span> <span>www.crigroups.com</span></p>
       
     </footer>
   );

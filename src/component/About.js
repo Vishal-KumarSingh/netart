@@ -1,11 +1,11 @@
 function About(){
     return (
         <div>
-            <div className="about mx-16">
+            <div className="about mx-8 md:mx-16">
                 <div className="trophy">
             <img src="./1.png" className="trophyimg"/>
             </div>
-            <div className="about-text p-6">
+            <div className="about-text md:p-6">
             <p className=" font-bold">CRI PUMPS WINS THE NATIONAL LEVEL ENERGY CONSERVTION AWARD 2018 for the 4th time </p>
             <ul className="list-disc">
                 <br/>

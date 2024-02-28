@@ -1,7 +1,7 @@
 function Testinomial() {
     return (
         <>
-        <div className="m-16 p-4">
+        <div className="m-4 md:m-16 p-4">
             <p className="text-center"> INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACCROSS THE COUNTRY RESULTING IN 
                 A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.
             </p>
